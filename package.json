@@ -1,0 +1,15 @@
+{
+  "name": "build-a-house",
+  "version": "1.0.0",
+  "description": "Simple HTML/CSS project",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Paulina Zimny",
+  "license": "ISC",
+  "homepage": "https://pauzimny.github.io/build-a-house",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
